@@ -32,12 +32,4 @@ This repository contains a Python project that implements an email spam detectio
 - seaborn
 - wordcloud
 
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
-## License
-
-This project is for educational purposes.
+ 
